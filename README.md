@@ -17,7 +17,7 @@
 
 ## 🔥 Featured Projects
 
-### 🌍 [RevenueTech Medical Billing Site](https://www.revenuetechsolutions.com/)
+### 🌍 [Revenue Tech Solutions - Medical Billing Site](https://www.revenuetechsolutions.com/)
 > A full business website built for a US-based medical billing company. *(Client Project)*
 
 ### 🖥️ [TechEon Laptop Company UI](https://askdanish144.github.io/TechEon-laptop-bootstrap-frontend/)
