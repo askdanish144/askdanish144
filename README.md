@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Danish Ali
 
-<!--
-**askdanish144/askdanish144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student | 💻 MERN Stack Developer | 🎨 Graphic Designer  
+🚀 Self-taught and passionate about building real-world, responsive web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+- 👨‍💻 Currently pursuing B.S. in Computer Science  
+- 🌐 Focused on frontend & backend using **React**, **Node.js**, **MongoDB**, and **Express**
+- 🧠 Self-taught in graphic design & full stack development  
+- 🎯 Actively freelancing and open for client work or collaborations  
+- 📫 Email me at: askdanish144@gmail.com
+
+---
+
+## 🔥 Featured Projects
+
+### 🌍 [RevenueTech Medical Billing Site](https://www.revenuetechsolutions.com/)
+> A full business website built for a US-based medical billing company. *(Client Project)*
+
+### 🖥️ [TechEon Laptop Company UI](https://askdanish144.github.io/TechEon-laptop-bootstrap-frontend/)
+> Responsive landing page for a tech startup showcasing laptops and offers.
+
+### 🌐 [RankMax SEO Landing Page](https://askdanish144.github.io/RankMax-seo-service-landing-page/)
+> A modern SEO service homepage built with responsive Bootstrap and custom design.
+
+---
+
+## ⚒️ Tech Stack & Skills
+
+**Frontend:** HTML, CSS, Bootstrap, JavaScript, React  
+**Backend:** Node.js, Express.js, MongoDB (MERN)  
+**Tools:** Git, GitHub, VSCode, Postman, Compass
+**Design:** Adobe Illustrator, Photoshop
+
+---
+
+## 💡 Let's Connect
+
+- 📧 Email: askdanish144@gmail.com
+- 🔗 GitHub: [askdanish144](https://github.com/askdanish144)
+
+---
+
+## 📄 License
+
+All projects are for **portfolio & educational purposes**. Please give credit if you use or reference the code.
