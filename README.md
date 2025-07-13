@@ -20,6 +20,9 @@
 ### 🌍 [Revenue Tech Solutions - Medical Billing Site](https://www.revenuetechsolutions.com/)
 > A full business website built for a US-based medical billing company. *(Client Project)*
 
+### ⚛️ [Healthcare React Website](https://healthcare-med.netlify.app/)
+> A modern, fully responsive healthcare website rebuilt from a static HTML/CSS/JavaScript version into a full React application. Demonstrates component-based architecture, React Router navigation, contact form with API interaction, and scalable code structure.
+
 ### 🖥️ [TechEon Laptop Company UI](https://askdanish144.github.io/TechEon-laptop-bootstrap-frontend/)
 > Responsive landing page for a tech startup showcasing laptops and offers.
 
