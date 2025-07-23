@@ -26,7 +26,7 @@
 ### 🖥️ [TechEon Laptop Company UI](https://askdanish144.github.io/TechEon-laptop-bootstrap-frontend/)
 > Responsive landing page for a tech startup showcasing laptops and offers.
 
-### 🌐 [RankMax SEO Landing Page](https://askdanish144.github.io/RankMax-seo-service-landing-page/)
+### 🌐 [RankMax SEO Landing Page](https://rank-max.netlify.app/)
 > A modern SEO service homepage built with responsive Bootstrap and custom design.
 
 ---
