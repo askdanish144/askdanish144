@@ -23,7 +23,7 @@
 ### ⚛️ [Healthcare React Website](https://healthcare-med.netlify.app/)
 > A modern, fully responsive healthcare website rebuilt from a static HTML/CSS/JavaScript version into a full React application. Demonstrates component-based architecture, React Router navigation, contact form with API interaction, and scalable code structure.
 
-### 🖥️ [TechEon Laptop Company UI](https://askdanish144.github.io/TechEon-laptop-bootstrap-frontend/)
+### 🖥️ [TechEon Laptop Company UI](https://techeon-site.netlify.app/)
 > Responsive landing page for a tech startup showcasing laptops and offers.
 
 ### 🌐 [RankMax SEO Landing Page](https://rank-max.netlify.app/)
