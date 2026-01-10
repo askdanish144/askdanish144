@@ -36,7 +36,7 @@
 **Frontend:** HTML, CSS, Bootstrap, JavaScript, React  
 **Backend:** Node.js, Express.js, MongoDB (MERN)  
 **Tools:** Git, GitHub, VSCode, Postman, Compass
-**Design:** Adobe Illustrator, Photoshop
+**Design:** Figma, Adobe Illustrator, Adobe Photoshop, 
 
 ---
 
